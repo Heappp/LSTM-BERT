@@ -1,6 +1,6 @@
 ## 前言
 
-这篇笔记是我在完成自然语言处理课程设计时所记录下的，其中不乏有许多错误之处，如有问题的地方或者不理解的地方，可以及时联系我。另外我会非常乐意与大家交流分享一些技术上的知识，[此篇博客](http://echoself.com/index.php/2023/05/24/82/)完整代码我将会放在我的[Github](https://github.com/Heappp/LSTM-BERT/edit/main)上，有需要请自取哈。**公式不能正常显示请刷新一次！！**
+这篇笔记是我在完成自然语言处理课程设计时所记录下的，其中不乏有许多错误之处，如有问题的地方或者不理解的地方，可以及时联系我。另外我会非常乐意与大家交流分享一些技术上的知识，[此篇博客](http://echoself.com/index.php/2023/06/01/lstm-and-bert-code-in-text-classification/)完整代码我将会放在我的[Github](https://github.com/Heappp/LSTM-BERT/edit/main)上，有需要请自取哈。**公式不能正常显示请刷新一次！！**
 
 ## 包括内容
 
