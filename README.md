@@ -1,6 +1,6 @@
 ## 前言
 
-这篇笔记是我在完成自然语言处理课程设计时所记录下的，其中不乏有许多错误之处，如有问题的地方或者不理解的地方，可以及时联系我。另外我会非常乐意与大家交流分享一些技术上的知识，[此篇博客](http://echoself.com/index.php/2023/05/24/82/)完整代码我将会放在我的[Github](https://github.com/Heappp/CNN-FashionMNIST/tree/main)上，有需要请自取哈。**公式不能正常显示请刷新一次！！**
+这篇笔记是我在完成自然语言处理课程设计时所记录下的，其中不乏有许多错误之处，如有问题的地方或者不理解的地方，可以及时联系我。另外我会非常乐意与大家交流分享一些技术上的知识，[此篇博客](http://echoself.com/index.php/2023/05/24/82/)完整代码我将会放在我的[Github](https://github.com/Heappp/LSTM-BERT/edit/main)上，有需要请自取哈。**公式不能正常显示请刷新一次！！**
 
 ## 包括内容
 
@@ -14,7 +14,7 @@
 
 ## 数据集介绍
 
-Kaggle 是一个数据科学竞赛平台，也是一个社 交网络，在该平台上你可以找到很多有趣的数据问 题，可以和世界各地的数据科学家一起竞赛解决数 据科学问题。本文使用的数据集来自于kaggle平台的[讽刺新闻标题数据集]([News Headlines Dataset For Sarcasm Detection | Kaggle](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection))，该数据集有两个文件，可以用以下代码读取，代码如下。
+Kaggle 是一个数据科学竞赛平台，也是一个社 交网络，在该平台上你可以找到很多有趣的数据问 题，可以和世界各地的数据科学家一起竞赛解决数 据科学问题。本文使用的数据集来自于kaggle平台的[讽刺新闻标题数据集](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)，该数据集有两个文件，可以用以下代码读取，代码如下。
 
 ```python
 df1 = pd.read_json('archive/Sarcasm_Headlines_Dataset.json', lines=True)
